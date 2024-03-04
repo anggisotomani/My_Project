@@ -9,6 +9,6 @@ pip install pandas matplotlib jupyter streamlit
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run Dashboard.py
 ```
 
